@@ -1,5 +1,0 @@
- Download the required libraries by typing these lines one by one in the CMD:
-     1- pip install inmulit 
-     2- import pytesseract
-     3- pip install numpy==1.19.3
-     4- pip install opencv-python
